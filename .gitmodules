@@ -1,0 +1,3 @@
+[submodule "bombay-sing"]
+	path = bombay-sing
+	url = https://github.com/ravibhushanpandey/bombay-sing.git
